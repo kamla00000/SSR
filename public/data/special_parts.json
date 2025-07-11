@@ -153,6 +153,8 @@
     "close": 2,
     "mid": 3,
     "long": 3,
+    "turnPerformanceGround": 3,
+    "turnPerformanceSpace": 3,
     "description": "サイコミュ兵装のロックオン時間を25%短縮。機体HPの受けるダメージを3%軽減。MSの旋回性能が3増加"
   },
   {
@@ -203,6 +205,7 @@
     "close": 2,
     "mid": 2,
     "long": 5,
+    "shoot": 5,
     "description": "射撃補正が5増加。\n射撃属性から受けるダメージを5%軽減。"
   },
   {
@@ -211,6 +214,7 @@
     "close": 4,
     "mid": 2,
     "long": 2,
+    "melee": 5,
     "description": "格闘補正が5増加。\n格闘属性から受けるダメージを10%軽減。"
   },
   {
@@ -219,6 +223,12 @@
     "close": 3,
     "mid": 3,
     "long": 1,
+    "melee": 1,
+    "armor_melee": 1,
+    "highSpeedMovement": 1,
+    "thruster": 1,
+    "turnPerformanceGround": 1,
+    "turnPerformanceSpace": 1,
     "description": "格闘補正、耐格闘補正、高速移動、スラスター、MSの旋回性能が1増加する。\n機体LVが1上昇するごとに、さらに1増加。\n本パーツによる最大上昇は機体LV5まで。"
   },
   {
